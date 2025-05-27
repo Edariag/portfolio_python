@@ -1,2 +1,7 @@
-# portfolio_python
+# portfolio по анализу данных с использованием python
 репозиторий содержит проекты, выполненные в ходе обучения на курсе по анализу данных
+№ | Ссылка на проект | Отрасль бизнеса | Описание | Используемые библиотеки | Презентация проекта                                                
+---|---|---|---|---|---                                                                                      
+1 |      [Исследование банковских клиентов](https://github.com/Edariag/portfolio_python/blob/c2b266a74ab7c400a190693153ec923226b889d4/bank%20case/bank_case.ipynb)| Финтех, Банкинг | Исследование клиентов банка по сегментам, в рамках программы обучения анализу данных|*pandas, numpy, matplotlib, seaborn, plotly*|[Презентация "Исследование банковских клиентов"](https://drive.google.com/file/d/1l9LIdWYvm6euEfTJfMi6hkjmjDqZUon9/view?usp=sharing)
+2 |      [Анализ динамики продаж на платформе Amazon](https://github.com/Edariag/portfolio_python/blob/8ce6cd3167840b21d61e4c9dbe392360ec9cdd7e/amazon%20case/Amazon.ipynb)| Торговля | Анализ динамики продаж в разрезе клиентов торговой платформы Amazon|*pandas, numpy, matplotlib, seaborn, plotly*|[Презентация "Анализ динамики продаж"]()
+3 |      [Анализ пользователей стриминговой платформы Netflix](https://github.com/Edariag/portfolio_python/blob/8ce6cd3167840b21d61e4c9dbe392360ec9cdd7e/netflix%20case/Netflix.ipynb)| Услуги | Сегментированный анализ пользователей платформы Netflix|*pandas, numpy, matplotlib, seaborn, plotly*|[Презентация "Аналитика по пользователям Netflix"]()
